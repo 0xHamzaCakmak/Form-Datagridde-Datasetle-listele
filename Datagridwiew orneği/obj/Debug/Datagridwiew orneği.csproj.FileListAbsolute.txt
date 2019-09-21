@@ -1,0 +1,10 @@
+C:\Users\reela\source\repos\Datagridwiew orneği\Datagridwiew orneği\bin\Debug\Datagridwiew orneği.exe.config
+C:\Users\reela\source\repos\Datagridwiew orneği\Datagridwiew orneği\bin\Debug\Datagridwiew orneği.exe
+C:\Users\reela\source\repos\Datagridwiew orneği\Datagridwiew orneği\bin\Debug\Datagridwiew orneği.pdb
+C:\Users\reela\source\repos\Datagridwiew orneği\Datagridwiew orneği\obj\Debug\Datagridwiew orneği.csprojAssemblyReference.cache
+C:\Users\reela\source\repos\Datagridwiew orneği\Datagridwiew orneği\obj\Debug\Datagridwiew_orneği.Form1.resources
+C:\Users\reela\source\repos\Datagridwiew orneği\Datagridwiew orneği\obj\Debug\Datagridwiew_orneği.Properties.Resources.resources
+C:\Users\reela\source\repos\Datagridwiew orneği\Datagridwiew orneği\obj\Debug\Datagridwiew orneği.csproj.GenerateResource.cache
+C:\Users\reela\source\repos\Datagridwiew orneği\Datagridwiew orneği\obj\Debug\Datagridwiew orneği.csproj.CoreCompileInputs.cache
+C:\Users\reela\source\repos\Datagridwiew orneği\Datagridwiew orneği\obj\Debug\Datagridwiew orneği.exe
+C:\Users\reela\source\repos\Datagridwiew orneği\Datagridwiew orneği\obj\Debug\Datagridwiew orneği.pdb
